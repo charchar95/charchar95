@@ -5,4 +5,4 @@ I am a dynamic programmer dedicated to lifelong learning who thrives in a collab
  
 :briefcase: Learn more about me on <a href="https://www.linkedin.com/in/charles-humphrey/">LinkedIn</a> 
 <br>
-:floppy_disk: Check out my a href="http://charleshumphrey.com/">portfolio</a>
+:floppy_disk: Check out my <a href="http://charleshumphrey.com/">portfolio</a>
